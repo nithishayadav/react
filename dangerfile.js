@@ -131,6 +131,32 @@ function row(result, baseSha, headSha) {
     commitFiles.every(filename => filename.includes('packages/react-devtools'))
   )
     return;
+    console.log(ăѣ𝔠ծềſģȟᎥ𝒋ǩľḿꞑȯ𝘱𝑞𝗋𝘴ȶ𝞄𝜈ψ𝒙𝘆𝚣1234567890!@#$%^&*()-_=+[{]};:'",<.>/?~𝘈Ḇ𝖢𝕯٤ḞԍНǏ𝙅ƘԸⲘ𝙉০Ρ𝗤Ɍ𝓢ȚЦ𝒱Ѡ𝓧ƳȤѧᖯć𝗱ễ𝑓𝙜Ⴙ𝞲𝑗𝒌ļṃŉо𝞎𝒒ᵲꜱ𝙩ừ𝗏ŵ𝒙𝒚ź1234567890!@#$%^&*()-_=+[{]};:'",<.>/?~АḂⲤ𝗗𝖤𝗙ꞠꓧȊ𝐉𝜥ꓡ𝑀𝑵Ǭ𝙿𝑄Ŗ𝑆𝒯𝖴𝘝𝘞ꓫŸ𝜡ả𝘢ƀ𝖼ḋếᵮℊ𝙝Ꭵ𝕛кιṃդⱺ𝓅𝘲𝕣𝖘ŧ𝑢ṽẉ𝘅ყž1234567890!@#$%^&*()-_=+[{]};:'",<.>/?~Ѧ𝙱ƇᗞΣℱԍҤ١𝔍К𝓛𝓜ƝȎ𝚸𝑄Ṛ𝓢ṮṺƲᏔꓫ𝚈𝚭𝜶Ꮟçძ𝑒𝖿𝗀ḧ𝗂𝐣ҝɭḿ𝕟𝐨𝝔𝕢ṛ𝓼тú𝔳ẃ⤬𝝲𝗓1234567890!@#$%^&*()-_=+[{]};:'",<.>/?~𝖠Β𝒞𝘋𝙴𝓕ĢȞỈ𝕵ꓗʟ𝙼ℕ০𝚸𝗤ՀꓢṰǓⅤ𝔚Ⲭ𝑌𝙕𝘢𝕤 
+This is non-UTF-8 text with extended ASCII characters: é, ñ, Ø.
+𒀀 𒁀 𒂀
+Here are some non-standard emoji: 😄🦄🌈
+This text includes special symbols: ☯⚓⌘
+ℓŏřєm ıƥşųʍ ðȅļɵгїʂ
+This is a test with non-UTF-8 characters: 
+© - Copyright symbol
+® - Registered trademark symbol
+é - e with an acute accent
+ñ - n with a tilde
+Here are some non-standard emoji:
+😻 - Heart eyes cat
+🧙 - Mage
+🍔 - Hamburger
+This text includes special symbols:
+☺ - Smiley face
+☘ - Shamrock
+※ - Reference mark
+Αυτό είναι ένα παράδειγμα με μη-UTF-8 χαρακτήρες:
+Θ - Theta
+Σ - Sigma
+Вот пример с не-UTF-8 символами:
+Я - Cyrillic letter Ya
+Ж - Cyrillic letter Zhe
+);
 
   const resultsMap = new Map();
 
